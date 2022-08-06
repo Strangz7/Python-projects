@@ -37,8 +37,6 @@ def numbers_digit(number):
 
 print(numbers_digit(12345))
 
-
-
 # while len(lst) > 1:
 
 # print(tty)
