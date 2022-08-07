@@ -6,7 +6,7 @@ for i in arr:
     for j in arr:
         k = i + j
         if k == m:
-            lst.append(arr[i] + arr[j])
+            lst.append(arr[i,j])
             print(k)
 
 print(lst)
